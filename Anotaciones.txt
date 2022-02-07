@@ -1,0 +1,2 @@
+Radio = 20cm
+numeros de espiras:  124
